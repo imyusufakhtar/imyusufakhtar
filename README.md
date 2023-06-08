@@ -1,6 +1,6 @@
 <!-- [![Masterhead](5.jpg)](https://imyusufakhtar.github.io/Portfolio/) -->
 <h1 align="center">Hi 👋, I'm Md Yusuf</h1>
-<img align="right" alt="Coding" width="400" src="5.jpg">
+<!-- <img align="right" alt="Coding" width="400" src="5.jpg"> -->
 - 🌱 I’m currently learning **React, Redux, Algorithms**
 
 - 👨‍💻 All of my projects are available at [https://imyusufakhtar.github.io/Portfolio/](https://imyusufakhtar.github.io/Portfolio/)
