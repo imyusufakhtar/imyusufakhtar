@@ -5,11 +5,7 @@ My technical repertoire includes mastery of Java, JavaScript, Python, TypeScript
 Armed with a Bachelor's degree in Computer Science, I've earned accolades for leadership and galvanizing participation in university events and social initiatives.<br>
 Let's connect to explore how my track record of driving user engagement, optimizing performance, and delivering robust software solutions can benefit your team.<br>
 
-
-## 🌐 Connect with me:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/imyusufakhtar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/imdyusuf) 
-
-# 💻 Skills, Accomplishments and Additional:
+## 💻 Skills, Accomplishments and Additional:
 **Programming:** Java, JavaScript, Python, TypeScript, C++<br>
 **Frontend:** ReactJS, JavaScript, HTML, CSS, SCSS, Bootstrap<br>
 **Backend:** Python Flask, RESTful APIs<br>
