@@ -15,7 +15,7 @@ Let's connect to explore how my track record of driving user engagement, optimiz
 **Additional:** Won Prize in CU Tech fest at Chandigarh University, Participated in Swachh Bharat Abhiyan, Organized AntiDrug Campaign at Chandigarh University as a Coordinator in 2019, Worked as a Backend Coordinator for AIU and CU Fest organized at Chandigarh University in 2018.<br>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=imyusufakhtar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=imyusufakhtar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=imyusufakhtar&theme=dark&hide_border=false)<br/>
 
 ## 🏆 GitHub Trophies
