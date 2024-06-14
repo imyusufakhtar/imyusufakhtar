@@ -1,16 +1,26 @@
 # 💫 About Me:
-Logical and organised individual with a strong foundation in software engineering. Proficient in Java, JavaScript, C++, and Python. Seeking to raise coding KPIs by providing error-free codes. Ability to translate business requirements into innovative software solutions. Excellent teamwork, interpersonal and communication skills. Looking to start a career as an entry-level professional with a reputed IT company.<br>
+👋 Hello! I'm Md Yusuf, a proactive Software Developer with over 2 years of experience at Delta India, specializing in architecting high-performance web applications using ReactJS.<br>
+I've spearheaded initiatives that propelled user engagement by 30% and streamlined data retrieval times by 40% through seamless API integrations. I excel in steering agile projects to prompt, on-time deliveries while fortifying code quality to achieve a 30% reliability boost.<br>
+My technical repertoire includes mastery of Java, JavaScript, Python, TypeScript, and C++, with hands-on proficiency in frontend development encompassing ReactJS, HTML, CSS, SCSS, and Bootstrap.<br>
+Armed with a Bachelor's degree in Computer Science, I've earned accolades for leadership and galvanizing participation in university events and social initiatives.<br>
+Let's connect to explore how my track record of driving user engagement, optimizing performance, and delivering robust software solutions can benefit your team.<br>
 
 
 ## 🌐 Connect with me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/imyusufakhtar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/imdyusuf) 
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+# 💻 Skills, Accomplishments and Additional:
+**Programming:** Java, JavaScript, Python, TypeScript, C++<br>
+**Frontend:** ReactJS, JavaScript, HTML, CSS, SCSS, Bootstrap<br>
+**Backend:** Python Flask, RESTful APIs<br>
+**Tools:** Git, IDEs, SQL, Webpack<br>
+**Other Skills:** Linux/Windows, Data Analysis, Troubleshooting, Project Management<br>
+**Accomplishment:** 50% Scholarship from Chandigarh University, Secured 3 star coder status on Leetcode.<br>
+**Additional:** Won Prize in CU Tech fest at Chandigarh University, Participated in Swachh Bharat Abhiyan, Organized AntiDrug Campaign at Chandigarh University as a Coordinator in 2019, Worked as a Backend Coordinator for AIU and CU Fest organized at Chandigarh University in 2018.<br>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=imyusufakhtar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=imyusufakhtar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=imyusufakhtar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=imyusufakhtar&theme=radical&no-frame=false&no-bg=false&margin-w=4)
