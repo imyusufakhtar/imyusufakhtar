@@ -1,27 +1,9 @@
-# 💫 About Me:
-👋 Hello! I'm Md Yusuf, a proactive Software Developer with over 2 years of experience at Delta India, specializing in architecting high-performance web applications using ReactJS.<br>
-I've spearheaded initiatives that propelled user engagement by 30% and streamlined data retrieval times by 40% through seamless API integrations. I excel in steering agile projects to prompt, on-time deliveries while fortifying code quality to achieve a 30% reliability boost.<br>
-My technical repertoire includes mastery of Java, JavaScript, Python, TypeScript, and C++, with hands-on proficiency in frontend development encompassing ReactJS, HTML, CSS, SCSS, and Bootstrap.<br>
-Armed with a Bachelor's degree in Computer Science, I've earned accolades for leadership and galvanizing participation in university events and social initiatives.<br>
-Let's connect to explore how my track record of driving user engagement, optimizing performance, and delivering robust software solutions can benefit your team.<br>
+👋 Hello! I'm Md Yusuf, a proactive Software Developer specializing in creating advanced web applications. I excel in ReactJS, where I spearheaded initiatives that significantly boosted user engagement by 30% and optimized backend operations to enhance data retrieval efficiency by 40%. My expertise spans HTML, CSS, Bootstrap, React, Redux, and advanced JavaScript (ES6+), complemented by proficiency in TypeScript and modern front-end tools like Webpack.
 
-## 💻 Skills, Accomplishments and Additional:
-**Programming:** Java, JavaScript, Python, TypeScript, C++<br>
-**Frontend:** ReactJS, JavaScript, HTML, CSS, SCSS, Bootstrap<br>
-**Backend:** Python Flask, RESTful APIs<br>
-**Tools:** Git, IDEs, SQL, Webpack<br>
-**Other Skills:** Linux/Windows, Data Analysis, Troubleshooting, Project Management<br>
-**Accomplishment:** 50% Scholarship from Chandigarh University, Secured 3 star coder status on Leetcode.<br>
-**Additional:** Won Prize in CU Tech fest at Chandigarh University, Participated in Swachh Bharat Abhiyan, Organized AntiDrug Campaign at Chandigarh University as a Coordinator in 2019, Worked as a Backend Coordinator for AIU and CU Fest organized at Chandigarh University in 2018.<br>
+Throughout my career, I've orchestrated agile planning sessions that translated product requirements into actionable tasks, ensuring the prompt delivery of multiple high-impact projects. I elevated code quality through rigorous unit testing using Jest and Enzyme, resulting in a 30% increase in reliability, while implementing Git for seamless version control, reducing conflicts by 40%.
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=imyusufakhtar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=imyusufakhtar&theme=dark&hide_border=false)<br/>
+Beyond my core responsibilities, I've successfully executed diverse projects, including developing a Myntra clone e-commerce platform recognized for its 95% data accuracy and substantial improvements in page load times. Additionally, I've contributed to enterprise-level ERP systems, implementing sophisticated features such as real-time data visualization and role-based access control using Redux middleware.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=imyusufakhtar&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+Armed with a Bachelor's degree in Computer Science from Chandigarh University, I've cultivated a deep understanding of software development principles, algorithms, and database management. My academic background and hands-on experience have equipped me with a robust foundation in web development, honed through internships where I enhanced my collaborative coding skills.
 
----
-<!-- [![](https://visitcount.itsvg.in/api?id=imyusufakhtar&icon=0&color=0)](https://visitcount.itsvg.in) -->
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I'm passionate about leveraging technology to optimize performance, enhance user experiences, and deliver scalable solutions. Let's connect to explore how my proactive approach and extensive experience can drive innovation and achieve your business objectives.
