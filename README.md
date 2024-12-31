@@ -1,6 +1,6 @@
 # Hi, I'm Md Yusuf 👋
 
-I’m a **Software Engineer** and **Computer Science graduate** from **Chandigarh University**, specializing in **Full-Stack Development**. Skilled in **Java**, **Python**, **JavaScript**, **React**, and **RESTful APIs**, I’m passionate about building efficient, scalable applications. Check out my technical articles on **[Dev.to](https://dev.to/imyusufakhtar)**.
+I’m a **Software Engineer** and **Computer Science graduate** from **Chandigarh University**, specializing in **Front-End Development**. Skilled in **Java**, **Python**, **JavaScript**, **React**, and **RESTful APIs**, I’m passionate about building efficient, scalable applications. Check out my technical articles on **[Dev.to](https://dev.to/imyusufakhtar)**.
 
 - 🌱 Currently exploring **Machine Learning** and **Full-Stack Development**.
 - 💬 Feel free to ask me about **Java**, **Python**, **Frontend Development**, **JavaScript**, **React**, **Redux**, or anything else tech-related.
@@ -37,9 +37,18 @@ I’m a **Software Engineer** and **Computer Science graduate** from **Chandigar
 ![Agile](https://img.shields.io/badge/Agile-000000?style=flat&logo=agile&logoColor=white) 
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-7A9BEE?style=flat&logo=openai&logoColor=white)
 
-## 🎓 Education
-**Chandigarh University** — **B.E. in Computer Science & Engineering** (2018-2022)
-
 ## 📜 Certifications
-- **Java Programming** (Coursera), **Web Development** (Internshala)
-- **LeetCode 3-Star Coder** - [Check out my LeetCode profile](https://leetcode.com/u/imyusufakhtar/), **Prize Winner** at **CU Tech Fest**
+- **Java Programming: Solving Problems with Software** - *Duke University*.
+- **Building Modern Python Applications on AWS** - *AWS*.
+- **Web Development** - *Internshala*.
+- **Database Management Systems (DBMS)** - *IIT Kharagpur*.
+
+## 📈 Achievements
+- Solved **450+ Data Structure and Algorithm** problems on [LeetCode](https://leetcode.com/u/imyusufakhtar/).
+- Authored technical articles with over **5,000 followers** on [Dev.to](https://dev.to/imyusufakhtar).
+- Awarded a **50% scholarship** from Chandigarh University.  
+
+## 💻 Let's Connect
+- **Portfolio:** [md-yusuf.netlify.app](https://md-yusuf.netlify.app/)  
+- **GitHub:** [imyusufakhtar](https://github.com/imyusufakhtar)  
+- **LinkedIn:** [imdyusuf](https://www.linkedin.com/in/imdyusuf/)
