@@ -1,6 +1,6 @@
 # Hi, I'm Md Yusuf 👋
 
-I’m a **Software Engineer** and **Computer Science graduate** from **Chandigarh University**, specializing in **Front-End Development**. Skilled in **Java**, **Python**, **JavaScript**, **React**, and **RESTful APIs**, I’m passionate about building efficient, scalable applications. Check out my technical articles on **[Dev.to](https://dev.to/imyusufakhtar)**.
+I’m a **Software Developer** and **Computer Science graduate** from **Chandigarh University**, specializing in **Front-End Development**. Skilled in **Java**, **Python**, **JavaScript**, **React**, and **RESTful APIs**, I’m passionate about building efficient, scalable applications. Check out my technical articles on **[Dev.to](https://dev.to/imyusufakhtar)**.
 
 - 🌱 Currently exploring **Machine Learning** and **Full-Stack Development**.
 - 💬 Feel free to ask me about **Java**, **Python**, **Frontend Development**, **JavaScript**, **React**, **Redux**, or anything else tech-related.
