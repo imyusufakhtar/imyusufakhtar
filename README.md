@@ -44,9 +44,9 @@ I’m a **Software Developer** and **Computer Science graduate** from **Chandiga
 - **Database Management Systems (DBMS)** - *IIT Kharagpur*.
 
 ## 📈 Achievements
-- Solved **450+ Data Structure and Algorithm** problems on [LeetCode](https://leetcode.com/u/imyusufakhtar/).
-- Authored technical articles with over **5,000 followers** on [Dev.to](https://dev.to/imyusufakhtar).
-- Awarded a **50% scholarship** from Chandigarh University.  
+- **Top 20% LeetCode Global Rank** - Solved 450+ DSA problems with optimized time/space complexity solutions. [Link](https://leetcode.com/u/imyusufakhtar/)
+- Authored 40+ technical articles on front-end development, React.js, DSA, and programming **(Dev.to, 5K+ followers)**. [Link](https://dev.to/imyusufakhtar)
+- Awarded 50% merit scholarship from Chandigarh University **(CUCET Score: 82/100)**.  
 
 ## 💻 Let's Connect
 - **Portfolio:** [md-yusuf.netlify.app](https://md-yusuf.netlify.app/)  
