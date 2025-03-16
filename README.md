@@ -47,14 +47,6 @@ I love **problem-solving** and pushing my limits through **competitive programmi
 
 ---
 
-## 📜 Certifications  
-- 🎓 **Java Programming: Solving Problems with Software** - *Duke University*  
-- 🎓 **Building Modern Python Applications on AWS** - *AWS*  
-- 🎓 **Database Management Systems (DBMS)** - *IIT Kharagpur*  
-- 🎓 **Web Development** - *Internshala*  
-
----
-
 ## 📈 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=imyusufakhtar&theme=radical" alt="GitHub Streak" />
