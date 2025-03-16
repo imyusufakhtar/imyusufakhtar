@@ -30,10 +30,10 @@ Beyond coding, I enjoy **competitive programming**, open-source contributions, a
 
 ---
 
-## 🚀 What I'm Working On  
-🔹 **[Witzora](https://github.com/your-witzora-repo)** – A content-driven platform combining **humor, politics, finance, and tech**, designed for engagement and scalability.  
+## 🚀 What I'm Building
+I'm currently working on an **AI-powered SaaS platform** that makes branding simple and accessible. Instead of spending weeks or hiring expensive designers, users can create a complete brand identity in minutes—all powered by AI.
 
-🔹 **Exploring Machine Learning & Full-Stack Development** to expand my expertise.  
+Branding is expensive, complicated, and time-consuming, and I want to change that. This platform helps small businesses, freelancers, and startups get high-quality branding without the hassle.
 
 ---
 
