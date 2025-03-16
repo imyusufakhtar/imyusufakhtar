@@ -40,8 +40,8 @@ Branding is expensive, complicated, and time-consuming, and I want to change tha
 ## 🏆 Competitive Programming  
 I love **problem-solving** and pushing my limits through **competitive programming**.  
 
-- **LeetCode:** 2,071 (Guardian, Top 0.97%)  
-- **GeeksforGeeks:** 2,045 (Level 5, Top 0.62%)  
+- **LeetCode:** 2203 (Guardian, Top 0.98%)  
+- **GeeksforGeeks:** 2045 (Level 5, Top 0.62%)  
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/imyusufakhtar) [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/imyusufakhtar)  
 
